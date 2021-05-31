@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Rapid predictive simulations with complex musculoskeletal models suggest that diverse healthy and pathological human gaits can emerge from similar control strategies"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2019
+venue: 'J. R. Soc. Interface'
+paperurl: 'https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0402'
+citation: 'Falisse Antoine, Serrancolí Gil, Dembia Christopher L., Gillis Joris, Jonkers Ilse and De Groote Friedl. (2019). "Rapid predictive simulations with complex musculoskeletal models suggest that diverse healthy and pathological human gaits can emerge from similar control strategies." <i>J. R. Soc. Interface</i>. 16: 20190402.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper describes our work on predictive simulations of human walking. In this study, we first detail our computationally efficient simulation framework, which we then exploit to explore various performance criteria that might explain human walking. We found that a multi-objective performance criterion combining energy and effort considerations can produce physiologically realistic healthy walking patterns, but also that the same criterion predicted the walk-to-run transition and clinical gait deficiencies caused by muscle weakness and prosthesis use.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0402)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download code and data here](https://github.com/antoinefalisse/3dpredictsim)
+
+Recommended citation: Falisse Antoine, Serrancolí Gil, Dembia Christopher L., Gillis Joris, Jonkers Ilse and De Groote Friedl. (2019). "Rapid predictive simulations with complex musculoskeletal models suggest that diverse healthy and pathological human gaits can emerge from similar control strategies." <i>J. R. Soc. Interface</i>. 16: 20190402.
