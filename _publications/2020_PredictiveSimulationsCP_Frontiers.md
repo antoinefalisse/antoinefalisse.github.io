@@ -1,6 +1,6 @@
 ---
 title: "Physics-based simulations to predict the differential effects of motor control and musculoskeletal deficits on gait dysfunction in cerebral palsy: A retrospective case study"
-collection: publications
+collection: publications"
 permalink: /publication/2020_PredictiveSimulationsCP_Frontiers
 excerpt: ''
 date: 2020-02-20
