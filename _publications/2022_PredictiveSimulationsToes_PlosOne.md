@@ -1,6 +1,6 @@
 ---
 title: "Modeling toes contributes to realistic stance knee mechanics in three-dimensional predictive simulations of walking"
-collection: publications"
+collection: publications
 permalink: /publication/2022_PredictiveSimulationsToes_PlosOne
 excerpt: ''
 date: 2022-01-25

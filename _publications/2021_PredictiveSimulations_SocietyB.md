@@ -1,5 +1,6 @@
 ---
 title: "Perspective on musculoskeletal modelling and predictive simulations of human movement to assess the neuromechanics of gait"
+collection: publications
 permalink: /publication/2021_PredictiveSimulations_SocietyB
 excerpt: ''
 date: 2021-03-03

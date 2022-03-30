@@ -1,6 +1,6 @@
 ---
 title: "Rapid predictive simulations with complex musculoskeletal models suggest that diverse healthy and pathological human gaits can emerge from similar control strategies"
-collection: publications"
+collection: publications
 permalink: /publication/2019_PredictiveSimulations_Interface
 excerpt: ''
 date: 2019-08-21
