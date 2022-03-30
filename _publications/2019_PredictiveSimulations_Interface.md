@@ -2,7 +2,7 @@
 title: "Rapid predictive simulations with complex musculoskeletal models suggest that diverse healthy and pathological human gaits can emerge from similar control strategies"
 collection: publications
 permalink: /publication/2019_PredictiveSimulations_Interface
-excerpt: 'This paper describes our work on predictive simulations of human walking. In this study, we first detail our computationally efficient simulation framework, which we then exploit to explore various performance criteria that might explain human walking. We found that a multi-objective performance criterion combining energy and effort considerations can produce physiologically realistic healthy walking patterns, but also that the same criterion predicted the walk-to-run transition and clinical gait deficiencies caused by muscle weakness and prosthesis use.'
+excerpt: 'In this paper, we first describe our framework to generate predictive simulations of human walking. We then exploit this framework to explore various performance criteria that might explain human walking. We found that a multi-objective performance criterion combining energy and effort considerations can produce physiologically realistic healthy walking patterns.'
 date: 2019-08-21
 venue: 'J. R. Soc. Interface'
 paperurl: 'https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0402'
