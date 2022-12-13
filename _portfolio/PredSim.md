@@ -1,6 +1,6 @@
 ---
 title: "Predictive simulations of human movement"
-excerpt: "Advanced numerical methods to generate fast predictive simulations of human movement 1<br/><img src='/images/Gait_snapshots_sideView_black.png'>"
+excerpt: "Advanced numerical methods to generate fast predictive simulations of human movement<br/><img src='/images/Gait_snapshots_sideView_white.png'>"
 collection: portfolio
 ---
 
