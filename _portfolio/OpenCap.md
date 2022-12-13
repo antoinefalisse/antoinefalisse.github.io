@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "OpenCap"
+excerpt: "3D human movement dynamics from smartphone videos 1<br/><img src='/images/Mark_BlackFont_300dpi.png'>"
 collection: portfolio
 ---
 

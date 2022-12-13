@@ -8,4 +8,4 @@ date: 2022-10-25
 location: "Seoul, South Korea"
 ---
 
-[Watch talk:](https://www.youtube.com/watch?v=sTTYnluE3Pk&list=PL1XHX4ptFEWn3hUAobgSSx2R_0buLcZID&index=3)
+[Watch talk](https://www.youtube.com/watch?v=sTTYnluE3Pk&list=PL1XHX4ptFEWn3hUAobgSSx2R_0buLcZID&index=3)
