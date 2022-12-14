@@ -1,10 +1,6 @@
 ---
 title: "OpenCap"
-excerpt: "3D human movement dynamics from smartphone videos <br/>
-<p align="center">
-  <img src="/images/OpenCap_1.jpg">
-</p>"
-
+excerpt: "3D human movement dynamics from smartphone videos <br/><img src='/images/OpenCap_1.png'>"
 collection: portfolio
 ---
 
