@@ -10,4 +10,4 @@ OpenCap is a software package to quantify human movement from smartphone videos.
   <img src="/images/OpenCap-worflow.jpg">
 </p>
 
-OpenCap is open-source, under Apache 2.0 license, and available on GitHub. The backend can be found in [this repository](https://github.com/stanfordnmbl/opencap-core). To estimate kinetics (ie, musculoskeletal forces), OpenCap relies on muscle-driven musculoskeletal simulations. You can find example of how to generate such simulations in [this repository](https://github.com/stanfordnmbl/opencap-processing).
+OpenCap is open-source, under Apache 2.0 license, and available on GitHub. The backend can be found in [this repository](https://github.com/stanfordnmbl/opencap-core). To estimate kinetics (ie, musculoskeletal forces), OpenCap relies on muscle-driven musculoskeletal simulations. You can find example of how to generate such simulations in [this repository](https://github.com/stanfordnmbl/opencap-processing). More details in [the preprint](https://www.biorxiv.org/content/10.1101/2022.07.07.499061v1) of our paper.

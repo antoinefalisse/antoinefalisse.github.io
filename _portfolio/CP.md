@@ -1,6 +1,6 @@
 ---
-title: "Predictive simulations of human movement"
-excerpt: "Advanced numerical methods to generate fast predictive simulations of human movement <br/><img src='/images/Gait_snapshots_sideView_white.png'>"
+title: "Cerebral palsy: modeling and simulation "
+excerpt: "Framework for personalized modeling and predictive simulation to study gait in children with cerebral palsy <br/><img src='/images/CP.png'>"
 collection: portfolio
 ---
 
