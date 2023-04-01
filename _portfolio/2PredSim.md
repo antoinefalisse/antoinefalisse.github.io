@@ -24,5 +24,5 @@ This work is covered in a series of papers with associated code:
     - [Paper - mechanical assumptions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256311)
     - [Code (Python) -  mechanical assumptions](https://github.com/antoinefalisse/predictsim_mtp)
 	
-We created a tutorial that guide users through the process of generating predictive simulations of walking using the tools we developed. You canf ind it here:
+We created a tutorial that guide users through the process of generating predictive simulations of walking using the tools we developed. You can find it here:
 	- [Tutorial (Python)](https://github.com/antoinefalisse/predsim_tutorial)
